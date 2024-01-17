@@ -45,7 +45,7 @@ Allows the user to search for a person by name and displays detailed information
 
 ## How to Use
 
-1. Compile the C++ code using a suitable compiler (e.g., g++).
+1. Compile the C++ code using a suitable compiler.
 2. Run the compiled executable.
 3. Choose options from the presented menu by entering the corresponding number.
 4. Follow the prompts to input information for patients and doctors.
